@@ -1,6 +1,6 @@
 # Image-to-Json_LLM
 Finetune LLM to convert an invoice or receipt image to receipt JSON object.
-
+```
 ## installs if required
 # !pip install -q -U bitsandbytes
 # !pip install -q -U git+https://github.com/huggingface/transformers.git
@@ -10,7 +10,7 @@ Finetune LLM to convert an invoice or receipt image to receipt JSON object.
 # !pip install -q -U torch
 # !pip install -q -U xformers
 # !pip install scipy
-
+```
 Take following sample receipt image and get an output Json like this:
 <img src="https://groups.google.com/group/jzebra-users/attach/d16dbba8a612edfa/Bill%20Image_Receipt.png?part=0.1 " width="250" height="300" alt="Receipt Image"/>
 
