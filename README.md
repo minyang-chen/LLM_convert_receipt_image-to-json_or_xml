@@ -1,6 +1,10 @@
 # Image-to-Json_LLM
 Finetune LLM to convert an invoice or receipt image to receipt JSON object.
 ```
+# !pip install huggingface_hub
+# from huggingface_hub import notebook_login
+# notebook_login()
+
 ## installs if required
 # !pip install -q -U bitsandbytes
 # !pip install -q -U git+https://github.com/huggingface/transformers.git
