@@ -5,7 +5,6 @@ Take following sample receipt image and get an output Json like this:
 <img src="https://groups.google.com/group/jzebra-users/attach/d16dbba8a612edfa/Bill%20Image_Receipt.png?part=0.1 " width="250" height="300" alt="Receipt Image"/>
 
 ```json
-
 {
     'receipt': {
         'store': 'The Lone Pine',
