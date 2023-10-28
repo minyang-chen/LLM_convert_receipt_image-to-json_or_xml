@@ -1,0 +1,41 @@
+{
+    "restaurant_name": "Restaurant Name",
+    "order_date": "2022-12-31T12:34:56Z",
+    "total_price": 100.00,
+    "tax_rate": 0.08,
+    "tax_amount": 8.00,
+    "items": [
+        {
+            "item_name": "Appetizer",
+            "quantity": 1,
+            "unit_price": 12.99,
+            "description": "Calamari"
+        },
+        {
+            "item_name": "Entree",
+            "quantity": 1,
+            "unit_price": 24.99,
+            "description": "Spaghetti Carbonara"
+        },
+        {
+            "item_name": "Beverage",
+            "quantity": 1,
+            "unit_price": 5.99,
+            "description": "Red Sangria"
+        }
+    ],
+    "discount_code": null,
+    "payment_method": "Credit Card",
+    "card_type": "American Express",
+    "card_number": "xxxxx xxxx xxxx xxxx",
+    "expiration_month": 12,
+    "expiration_year": 2025,
+    "cvv": "123",
+    "shipping_address": null,
+    "customer_info": {
+        "first_name": "Mike",
+        "last_name": "Johnson",
+        "email": "mike@example.com",
+        "phone_number": "(456) 789-0123"
+    }
+}
