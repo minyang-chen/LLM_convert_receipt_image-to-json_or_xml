@@ -1,3 +1,5 @@
+medium link: https://medium.com/@mychen76/finetune-llm-to-convert-a-receipt-image-to-json-or-xml-3f9a6237e991
+
 ### Setup
 Finetune LLM to convert an invoice or receipt image to receipt JSON object.
 ```
