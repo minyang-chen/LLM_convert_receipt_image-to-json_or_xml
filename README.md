@@ -18,6 +18,31 @@ Finetune LLM to convert an invoice or receipt image to receipt JSON object.
 # !pip install scipy
 ```
 
+### Notebooks
+
+#### English Receipts
+```
+model_id="mychen76/mistral7b_ocr_to_json_v1"
+https://github.com/minyang-chen/LLM_convert_receipt_image-to-json_or_xml/blob/main/Convert_Receipt_Image-to-Json_using_OCR_to_JSON_v1-English.ipynb
+
+model_id: mychen76/mistral_ocr2json_v3_chatml
+https://github.com/minyang-chen/LLM_convert_receipt_image-to-json_or_xml/blob/main/Convert_Receipt_Image-to-Json_using_OCR_to_JSON_v2_ChatML.ipynb
+```
+
+#### German Receipts
+```
+model_id="mychen76/mistral7b_ocr_to_json_v1"
+
+Test01
+https://github.com/minyang-chen/LLM_convert_receipt_image-to-json_or_xml/blob/main/Convert_Receipt_Image-to-Json_using_OCR_to_JSON_v1-German-Test1-passed.ipynb
+
+Test02
+https://github.com/minyang-chen/LLM_convert_receipt_image-to-json_or_xml/blob/main/Convert_Receipt_Image-to-Json_using_OCR_to_JSON_v1-German-Test2-failed.ipynb
+
+Test03
+https://github.com/minyang-chen/LLM_convert_receipt_image-to-json_or_xml/blob/main/Convert_Receipt_Image-to-Json_using_OCR_to_JSON_v1-German-Test3-okay.ipynb
+```
+
 # Image-to-Json_LLM
 Finetune LLM to convert an invoice or receipt image to receipt JSON object.
 
